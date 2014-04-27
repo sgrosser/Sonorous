@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Stefan Grosser\workspace\Sonorous\.metadata\.plugins\org.eclipse.jdt.core
+265627655.index
+1284074322.index
